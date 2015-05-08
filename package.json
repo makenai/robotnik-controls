@@ -1,0 +1,28 @@
+{
+  "name": "robotnik-controls",
+  "version": "0.0.1",
+  "description": "Adaptive control library for nodebots used by robotnik.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makenai/robotnik-controls.git"
+  },
+  "keywords": [
+    "robotnik",
+    "nodebots",
+    "controls"
+  ],
+  "author": "Pawel Szymczykowski <makenai@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makenai/robotnik-controls/issues"
+  },
+  "homepage": "https://github.com/makenai/robotnik-controls",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
